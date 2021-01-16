@@ -10,6 +10,8 @@ Then admin will comtact to pasent and let them know Who will be his/her doctor t
 
 If user interested forther Form have to fillup then they have to pay there amout for therapy.
 
-Example the therapy will 21 day long then.. We will track the pasent therapy day by day
+Example the therapy will 21 day long then.. We will track the pasent therapy day by day also we will have a recording 
 
-Then we will 
+Later we will have that video in sort format and keep that for proof of evidence.
+
+
